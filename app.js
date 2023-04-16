@@ -46,10 +46,10 @@ let resultado20dto = promo20dto(precio, num20deDto) ;
 console.log(`El precio por unidad con promo de 20% de descuento es: ${resultado20dto}`);
 
 let resultado2x1 = promo2x1(precio, numPromo2x1) ;
-console.log(`El precio por unidad con promo de 2x1 es: ${resultado2x1}`);
+console.log(`El precio por unidad con promo de 2 x 1 es: ${resultado2x1}`);
 
 let resultado3x2 = promo3x2(precio, numPromo3x2) ;
-console.log(`El precio por unidad con promo de 3X2 es: ${resultado3x2}`);
+console.log(`El precio por unidad con promo de 3 x 2 es: ${resultado3x2}`);
 
 
 for (let i = 1; i <= 3 ; i++) {
